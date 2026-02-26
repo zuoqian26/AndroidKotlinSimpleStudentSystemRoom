@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/zuoqian26/AndroidKotlinSimpleStudentSystemRoom.git
+git add .
+git commit -m "Initial commit: 提交Android Kotlin学生系统项目"
+git push -u origin master
