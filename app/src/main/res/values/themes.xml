@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- themes.xml - 主题资源文件 -->
+
+<!--
+    主题文件的作用：
+    - 定义应用的整体"风格"
+    - 包括颜色、字体、按钮样式等
+    - 让应用看起来一致美观
+
+    使用 AppCompat 主题
+    - 这是Android提供的兼容主题
+    - 可以在旧版Android上使用新特性
+-->
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Theme.StudentRoomDemo" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@color/gray_background</item>
+    </style>
+
+    <!-- 无ActionBar的主题（我们使用自己的标题栏） -->
+    <style name="Theme.StudentRoomDemo.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

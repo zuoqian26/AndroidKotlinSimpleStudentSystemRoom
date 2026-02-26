@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.studentroomdemo.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "com.example.studentroomdemo.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.studentroomdemo.app-mergeDebugResources-42:/layout/item_student.xml",
+        "source": "com.example.studentroomdemo.app-main-45:/layout/item_student.xml"
+    }
+]

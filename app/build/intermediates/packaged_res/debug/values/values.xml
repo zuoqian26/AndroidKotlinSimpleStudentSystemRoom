@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="accent_color">#FF4081</color>
+    <color name="black">#FF000000</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_shadow">#22000000</color>
+    <color name="dark_text">#333333</color>
+    <color name="gray_background">#F5F5F5</color>
+    <color name="gray_text">#666666</color>
+    <color name="primary_color">#3F51B5</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_button">添加按钮</string>
+    <string name="add_failed">添加失败</string>
+    <string name="add_student">添加学生</string>
+    <string name="add_success">添加成功！</string>
+    <string name="app_name">学生管理系统</string>
+    <string name="cancel">取消</string>
+    <string name="delete">删除</string>
+    <string name="delete_success">删除成功！</string>
+    <string name="empty_list_hint">点击右下角按钮添加学生</string>
+    <string name="hint_age">请输入年龄</string>
+    <string name="hint_name">请输入姓名</string>
+    <string name="hint_score">请输入成绩</string>
+    <string name="save">保存</string>
+    <string name="student_photo">学生照片</string>
+    <style name="Theme.StudentRoomDemo" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+
+        
+        <item name="android:windowBackground">@color/gray_background</item>
+    </style>
+    <style name="Theme.StudentRoomDemo.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

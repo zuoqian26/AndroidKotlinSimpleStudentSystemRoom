@@ -1,0 +1,357 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml:6:1-41:12
+INJECTED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml:6:1-41:12
+INJECTED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml:6:1-41:12
+INJECTED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml:6:1-41:12
+MERGED from [androidx.databinding:viewbinding:8.2.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\e0c4887fca9f1957f5f63b9fe81fec65\transformed\viewbinding-8.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.11.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\edf07b630238c02ee84cdd30e6dfbd1a\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\d2a442e609ed21fc835326e5dbdf2129\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\39540da37189f7d2a63ccedc8700af5c\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\bf4fe7904f75bc2a598ce3e2d77a46e4\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\076ede989f06a1aecd4b605e71292018\transformed\glide-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\ffd672a3d46e5893e06c772a61fece37\transformed\recyclerview-1.3.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\32a3f9ebf289c8eb86f9f433e08a00bb\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.3.6] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\8c38a4ac2e75a8a51ec60dba7f529243\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.2] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\b0705f20054478aebf434161076ca1aa\transformed\activity-1.8.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.2] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\b8e199da60bf1c48d753297a8bfb4d0d\transformed\activity-ktx-1.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\2b874271208cb8043e4f26a6ff01a8bd\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\0f75f01f48057bf76f3ce09af6dc1328\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\c60558c9a0fca133b16e4e70510d9f4a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\23cdec36c44742226fb357cbde692e27\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\76857fc74aba5351a1d32e83af154e71\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\99ae4fef2e371682da94b2856c6a9164\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\b7bd5076950cc05fe29318413f81ab25\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\fc9b6e1be8c3e03b3133fb13407ed21b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\346993a5fd6417fd14302ede319c8a2b\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\2aae4512c68de100e452e3986c18e465\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\b68ca5c3bb5273fa36a3af38ab741484\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\150f7f15f5e9b174724b4e3a920d686b\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\12686db0d0c208de82357e55d168f668\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\0df99b597a1a53f1a137928d79c88db5\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9778d89a0ebd4f403c5848de9820e44e\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\1cb7c53699c3d6c6f771daf12a40ef4d\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\59000d94dfb7e1d29bc35595b62f25dc\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\1454957a4de0602867f9f1a3ca60a057\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\7c2996164c285eb5395903198b043762\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\1f040cf71e6e0b6ebd9de281d668d8c0\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\2f56107685cf043ff8449f2bb050e1fa\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\bd5dd0587e3c4582df46468b8f4359a1\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\b0c7986256a4a07a088bede141c96402\transformed\lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\fca3424caed9fb0b88d1e650867c8987\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\3fb52960e22a7a58e89425cc0e6cf59d\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\d95685aaa644790e00f109c72a0a57bc\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\d55e9ed5c23c99ffba6ecdd06fbac717\transformed\core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.6.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\cfb3be686af7617c3fa026804e3a5892\transformed\room-runtime-2.6.1\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.room:room-ktx:2.6.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\3329ea014550ec538f59c200b8f71542\transformed\room-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\ac206fc84e02c1082ed2dca6c4fab3ef\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\be9ff41686472cf9d25b9c2880ebce26\transformed\sqlite-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\7f2c70249ccc92292353ebee9dda86d4\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\71ca1ba61844679ea9a4d4e6f280800a\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\4697ff7bc7ec36188b0fc5131994c69a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\8e370954047eaed7d28994a7da3a2c02\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\a6adbe20f128e7d5177665884a4870bb\transformed\gifdecoder-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\becfcccf3c1c95cdad63b56973a8d53a\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9d1b733445f7c5c474a4714989e86906\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\2521584b3216f233e55047b03d12b3e9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\bfc29b7aaa0cbfaad47a25c19b0bc5cd\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9f60cc8cd7c64899af9a7118ece681bc\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\58a53cd239e8c5bfc98c2fc080569ae1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\33fa5cd0fca399c0f83ac22cd7913c0c\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\8fd773c591c645a4b8d83bb1dfdcb5e5\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\579fa4549c510d27344de768f3dcc8b8\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml:7:5-51
+	android:versionCode
+		INJECTED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml:6:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml:12:5-13:38
+	android:maxSdkVersion
+		ADDED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml:13:9-35
+	android:name
+		ADDED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml:12:22-77
+application
+ADDED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml:16:5-39:19
+INJECTED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml:16:5-39:19
+MERGED from [com.google.android.material:material:1.11.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\edf07b630238c02ee84cdd30e6dfbd1a\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\edf07b630238c02ee84cdd30e6dfbd1a\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\d2a442e609ed21fc835326e5dbdf2129\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\d2a442e609ed21fc835326e5dbdf2129\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\0f75f01f48057bf76f3ce09af6dc1328\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\0f75f01f48057bf76f3ce09af6dc1328\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\12686db0d0c208de82357e55d168f668\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\12686db0d0c208de82357e55d168f668\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9778d89a0ebd4f403c5848de9820e44e\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9778d89a0ebd4f403c5848de9820e44e\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.room:room-runtime:2.6.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\cfb3be686af7617c3fa026804e3a5892\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\cfb3be686af7617c3fa026804e3a5892\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9d1b733445f7c5c474a4714989e86906\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9d1b733445f7c5c474a4714989e86906\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\2521584b3216f233e55047b03d12b3e9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\2521584b3216f233e55047b03d12b3e9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\58a53cd239e8c5bfc98c2fc080569ae1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\58a53cd239e8c5bfc98c2fc080569ae1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\12686db0d0c208de82357e55d168f668\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml:20:9-41
+	android:roundIcon
+		ADDED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml:21:9-54
+	tools:targetApi
+		ADDED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml:24:9-29
+	android:icon
+		ADDED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml:23:9-53
+activity#com.example.studentroomdemo.MainActivity
+ADDED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml:28:9-37:20
+	android:label
+		ADDED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml:31:13-45
+	android:exported
+		ADDED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml:32:13-57
+	android:name
+		ADDED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml:29:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml
+INJECTED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.2.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\e0c4887fca9f1957f5f63b9fe81fec65\transformed\viewbinding-8.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.2.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\e0c4887fca9f1957f5f63b9fe81fec65\transformed\viewbinding-8.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.11.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\edf07b630238c02ee84cdd30e6dfbd1a\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\edf07b630238c02ee84cdd30e6dfbd1a\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\d2a442e609ed21fc835326e5dbdf2129\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\d2a442e609ed21fc835326e5dbdf2129\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\39540da37189f7d2a63ccedc8700af5c\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\39540da37189f7d2a63ccedc8700af5c\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\bf4fe7904f75bc2a598ce3e2d77a46e4\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\bf4fe7904f75bc2a598ce3e2d77a46e4\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.16.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\076ede989f06a1aecd4b605e71292018\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\076ede989f06a1aecd4b605e71292018\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\ffd672a3d46e5893e06c772a61fece37\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\ffd672a3d46e5893e06c772a61fece37\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\32a3f9ebf289c8eb86f9f433e08a00bb\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\32a3f9ebf289c8eb86f9f433e08a00bb\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\8c38a4ac2e75a8a51ec60dba7f529243\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\8c38a4ac2e75a8a51ec60dba7f529243\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.2] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\b0705f20054478aebf434161076ca1aa\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\b0705f20054478aebf434161076ca1aa\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\b8e199da60bf1c48d753297a8bfb4d0d\transformed\activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\b8e199da60bf1c48d753297a8bfb4d0d\transformed\activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\2b874271208cb8043e4f26a6ff01a8bd\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\2b874271208cb8043e4f26a6ff01a8bd\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\0f75f01f48057bf76f3ce09af6dc1328\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\0f75f01f48057bf76f3ce09af6dc1328\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\c60558c9a0fca133b16e4e70510d9f4a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\c60558c9a0fca133b16e4e70510d9f4a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\23cdec36c44742226fb357cbde692e27\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\23cdec36c44742226fb357cbde692e27\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\76857fc74aba5351a1d32e83af154e71\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\76857fc74aba5351a1d32e83af154e71\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\99ae4fef2e371682da94b2856c6a9164\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\99ae4fef2e371682da94b2856c6a9164\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\b7bd5076950cc05fe29318413f81ab25\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\b7bd5076950cc05fe29318413f81ab25\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\fc9b6e1be8c3e03b3133fb13407ed21b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\fc9b6e1be8c3e03b3133fb13407ed21b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\346993a5fd6417fd14302ede319c8a2b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\346993a5fd6417fd14302ede319c8a2b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\2aae4512c68de100e452e3986c18e465\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\2aae4512c68de100e452e3986c18e465\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\b68ca5c3bb5273fa36a3af38ab741484\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\b68ca5c3bb5273fa36a3af38ab741484\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\150f7f15f5e9b174724b4e3a920d686b\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\150f7f15f5e9b174724b4e3a920d686b\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\12686db0d0c208de82357e55d168f668\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\12686db0d0c208de82357e55d168f668\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\0df99b597a1a53f1a137928d79c88db5\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\0df99b597a1a53f1a137928d79c88db5\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9778d89a0ebd4f403c5848de9820e44e\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9778d89a0ebd4f403c5848de9820e44e\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\1cb7c53699c3d6c6f771daf12a40ef4d\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\1cb7c53699c3d6c6f771daf12a40ef4d\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\59000d94dfb7e1d29bc35595b62f25dc\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\59000d94dfb7e1d29bc35595b62f25dc\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\1454957a4de0602867f9f1a3ca60a057\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\1454957a4de0602867f9f1a3ca60a057\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\7c2996164c285eb5395903198b043762\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\7c2996164c285eb5395903198b043762\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\1f040cf71e6e0b6ebd9de281d668d8c0\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\1f040cf71e6e0b6ebd9de281d668d8c0\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\2f56107685cf043ff8449f2bb050e1fa\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\2f56107685cf043ff8449f2bb050e1fa\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\bd5dd0587e3c4582df46468b8f4359a1\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\bd5dd0587e3c4582df46468b8f4359a1\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\b0c7986256a4a07a088bede141c96402\transformed\lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\b0c7986256a4a07a088bede141c96402\transformed\lifecycle-livedata-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\fca3424caed9fb0b88d1e650867c8987\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\fca3424caed9fb0b88d1e650867c8987\transformed\lifecycle-viewmodel-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\3fb52960e22a7a58e89425cc0e6cf59d\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\3fb52960e22a7a58e89425cc0e6cf59d\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\d95685aaa644790e00f109c72a0a57bc\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\d95685aaa644790e00f109c72a0a57bc\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\d55e9ed5c23c99ffba6ecdd06fbac717\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\d55e9ed5c23c99ffba6ecdd06fbac717\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\cfb3be686af7617c3fa026804e3a5892\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\cfb3be686af7617c3fa026804e3a5892\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\3329ea014550ec538f59c200b8f71542\transformed\room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\3329ea014550ec538f59c200b8f71542\transformed\room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\ac206fc84e02c1082ed2dca6c4fab3ef\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\ac206fc84e02c1082ed2dca6c4fab3ef\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\be9ff41686472cf9d25b9c2880ebce26\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\be9ff41686472cf9d25b9c2880ebce26\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\7f2c70249ccc92292353ebee9dda86d4\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\7f2c70249ccc92292353ebee9dda86d4\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\71ca1ba61844679ea9a4d4e6f280800a\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\71ca1ba61844679ea9a4d4e6f280800a\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\4697ff7bc7ec36188b0fc5131994c69a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\4697ff7bc7ec36188b0fc5131994c69a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\8e370954047eaed7d28994a7da3a2c02\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\8e370954047eaed7d28994a7da3a2c02\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\a6adbe20f128e7d5177665884a4870bb\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\a6adbe20f128e7d5177665884a4870bb\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\becfcccf3c1c95cdad63b56973a8d53a\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\becfcccf3c1c95cdad63b56973a8d53a\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9d1b733445f7c5c474a4714989e86906\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9d1b733445f7c5c474a4714989e86906\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\2521584b3216f233e55047b03d12b3e9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\2521584b3216f233e55047b03d12b3e9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\bfc29b7aaa0cbfaad47a25c19b0bc5cd\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\bfc29b7aaa0cbfaad47a25c19b0bc5cd\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9f60cc8cd7c64899af9a7118ece681bc\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9f60cc8cd7c64899af9a7118ece681bc\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\58a53cd239e8c5bfc98c2fc080569ae1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\58a53cd239e8c5bfc98c2fc080569ae1\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\33fa5cd0fca399c0f83ac22cd7913c0c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\33fa5cd0fca399c0f83ac22cd7913c0c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\8fd773c591c645a4b8d83bb1dfdcb5e5\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\8fd773c591c645a4b8d83bb1dfdcb5e5\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\579fa4549c510d27344de768f3dcc8b8\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\579fa4549c510d27344de768f3dcc8b8\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\MyWork\androdioApp\MyProject\package\StudentRoomDemo\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\0f75f01f48057bf76f3ce09af6dc1328\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9778d89a0ebd4f403c5848de9820e44e\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9778d89a0ebd4f403c5848de9820e44e\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9d1b733445f7c5c474a4714989e86906\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9d1b733445f7c5c474a4714989e86906\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\2521584b3216f233e55047b03d12b3e9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\2521584b3216f233e55047b03d12b3e9\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\0f75f01f48057bf76f3ce09af6dc1328\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\0f75f01f48057bf76f3ce09af6dc1328\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\0f75f01f48057bf76f3ce09af6dc1328\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\0f75f01f48057bf76f3ce09af6dc1328\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\0f75f01f48057bf76f3ce09af6dc1328\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\0f75f01f48057bf76f3ce09af6dc1328\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\0f75f01f48057bf76f3ce09af6dc1328\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\12686db0d0c208de82357e55d168f668\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\12686db0d0c208de82357e55d168f668\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\12686db0d0c208de82357e55d168f668\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.example.studentroomdemo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\12686db0d0c208de82357e55d168f668\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\12686db0d0c208de82357e55d168f668\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\12686db0d0c208de82357e55d168f668\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\12686db0d0c208de82357e55d168f668\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\12686db0d0c208de82357e55d168f668\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.studentroomdemo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\12686db0d0c208de82357e55d168f668\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\12686db0d0c208de82357e55d168f668\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9778d89a0ebd4f403c5848de9820e44e\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9778d89a0ebd4f403c5848de9820e44e\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9778d89a0ebd4f403c5848de9820e44e\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\cfb3be686af7617c3fa026804e3a5892\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\cfb3be686af7617c3fa026804e3a5892\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\cfb3be686af7617c3fa026804e3a5892\transformed\room-runtime-2.6.1\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\cfb3be686af7617c3fa026804e3a5892\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\cfb3be686af7617c3fa026804e3a5892\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9d1b733445f7c5c474a4714989e86906\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9d1b733445f7c5c474a4714989e86906\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9d1b733445f7c5c474a4714989e86906\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9d1b733445f7c5c474a4714989e86906\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9d1b733445f7c5c474a4714989e86906\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9d1b733445f7c5c474a4714989e86906\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9d1b733445f7c5c474a4714989e86906\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9d1b733445f7c5c474a4714989e86906\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9d1b733445f7c5c474a4714989e86906\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9d1b733445f7c5c474a4714989e86906\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9d1b733445f7c5c474a4714989e86906\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9d1b733445f7c5c474a4714989e86906\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9d1b733445f7c5c474a4714989e86906\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9d1b733445f7c5c474a4714989e86906\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9d1b733445f7c5c474a4714989e86906\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9d1b733445f7c5c474a4714989e86906\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9d1b733445f7c5c474a4714989e86906\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9d1b733445f7c5c474a4714989e86906\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9d1b733445f7c5c474a4714989e86906\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9d1b733445f7c5c474a4714989e86906\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] D:\MyWork\androdioApp\Androdio dev\gradle\caches\9.0-milestone-1\transforms\9d1b733445f7c5c474a4714989e86906\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92

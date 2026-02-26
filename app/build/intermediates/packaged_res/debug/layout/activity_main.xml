@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- activity_main.xml - 主界面布局 -->
+
+<!--
+    什么是XML布局文件？
+    - XML = 可扩展标记语言
+    - 布局文件用来描述界面的"长相"
+    - 就像装修房子的图纸，告诉我们哪里放什么
+
+    这个文件的作用：
+    - 定义主界面的布局结构
+    - 包含一个RecyclerView（显示学生列表）
+    - 包含一个FAB（悬浮按钮，用来添加学生）
+
+    是否必要：绝对必要！没有布局文件就无法显示界面
+-->
+
+<!--
+    ConstraintLayout - 约束布局
+    - 这是目前最推荐的布局
+    - 可以通过约束来定位每个控件的位置
+    - 性能好，层级少
+-->
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <!--
+        RecyclerView - 列表视图
+        - 用来显示学生列表
+        - 高性能，即使数据很多也不会卡顿
+        - 会复用item视图，节省内存
+
+        属性说明：
+        - android:id="@+id/recyclerView"
+            * 给这个控件起个ID，方便在代码中引用
+            * @+id表示新建一个ID
+
+        - android:layout_width="match_parent"
+            * 宽度占满父容器
+
+        - android:layout_height="match_parent"
+            * 高度占满父容器
+    -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="8dp"
+        android:clipToPadding="false" />
+
+    <!--
+        FloatingActionButton - 悬浮按钮（FAB）
+        - 一个圆形的按钮，浮在界面右下角
+        - 通常用于添加、创建等主要操作
+
+        属性说明：
+        - android:id="@+id/fabAdd"
+            * ID，方便代码中监听点击事件
+
+        - android:layout_width="wrap_content"
+            * 宽度根据内容自动调整
+
+        - android:layout_height="wrap_content"
+            * 高度根据内容自动调整
+
+        - android:layout_margin="16dp"
+            * 距离边缘16dp（留白）
+
+        - app:layout_constraintBottom_toBottomOf="parent"
+            * 约束：底部和父容器底部对齐
+
+        - app:layout_constraintEnd_toEndOf="parent"
+            * 约束：右边和父容器右边对齐
+
+        - android:src="@android:drawable/ic_input_add"
+            * 显示一个加号图标（系统自带）
+
+        - app:tint="@color/white"
+            * 图标颜色设为白色
+    -->
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fabAdd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:contentDescription="添加学生"
+        android:src="@android:drawable/ic_input_add"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:tint="@color/white" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

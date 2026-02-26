@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- AndroidManifest.xml - 清单文件 -->
+<!-- 这是Android应用的核心配置文件，必须要有！ -->
+<!-- 作用：告诉Android系统这个应用有哪些组件，需要什么权限 -->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- 读取外部存储的权限 - 必要！ -->
+    <!-- 因为我们要从相册选择照片，需要读取存储的权限 -->
+    <!-- 但是Android 13+使用了新的photo picker，我们可以不强制要求权限 -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="32" />
+    <!-- android:allowBackup="true" 表示允许应用备份数据 -->
+    <!-- 数据库也会被备份，这样卸载重装后数据还在 -->
+    <application
+
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.StudentRoomDemo"
+        tools:targetApi="31">
+
+        <!-- MainActivity - 我们的主界面 -->
+        <!-- intent-filter中的action和category表示这是主入口activity -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.StudentRoomDemo">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- item_student.xml - 学生列表项布局 -->
+
+<!--
+    这个文件的作用：
+    - 定义每个学生item的"长相"
+    - 包含照片、姓名、年龄、成绩
+    - 被RecyclerView重复使用
+
+    是否必要：绝对必要！RecyclerView需要这个布局来显示每个item
+-->
+
+<!--
+    CardView - 卡片视图
+    - 有圆角和阴影的效果
+    - 看起来像一张卡片
+    - 比普通布局更美观
+-->
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardCornerRadius="12dp"
+    app:cardElevation="4dp">
+
+    <!--
+        LinearLayout - 线性布局
+        - 按顺序排列子控件
+        - android:orientation="horizontal" 表示水平排列
+
+        这个布局的作用：
+        - 让照片在左边，文字信息在右边
+        - 水平排列
+    -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="16dp"
+        android:gravity="center_vertical">
+
+        <!--
+            ImageView - 图片视图
+            - 用来显示学生照片
+
+            属性说明：
+            - android:id="@+id/ivPhoto"
+                * ID，方便在Adapter中设置图片
+
+            - android:layout_width="60dp"
+                * 宽度60dp
+
+            - android:layout_height="60dp"
+                * 高度60dp
+
+            - android:scaleType="centerCrop"
+                * 缩放类型：居中裁剪
+                * 保证图片填满整个区域，不变形
+
+            - android:src="@android:drawable/ic_menu_gallery"
+                * 默认显示的图片（系统自带的相册图标）
+
+            - android:background="#EEEEEE"
+                * 背景灰色，占位用
+        -->
+        <ImageView
+            android:id="@+id/ivPhoto"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:scaleType="centerCrop"
+            android:src="@android:drawable/ic_menu_gallery"
+            android:background="#EEEEEE"
+            tools:ignore="ContentDescription" />
+
+        <!--
+            LinearLayout - 文字信息容器
+            - 包含姓名和详细信息
+            - 垂直排列
+            - android:layout_marginStart="16dp" 左边距16dp
+        -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginStart="16dp">
+
+            <!--
+                TextView - 文本视图（姓名）
+                - 显示学生姓名
+
+                属性说明：
+                - android:id="@+id/tvName"
+                    * ID，方便在Adapter中设置文字
+
+                - android:text="姓名"
+                    * 默认显示的文字（会被代码覆盖）
+
+                - android:textSize="18sp"
+                    * 字体大小18sp
+
+                - android:textStyle="bold"
+                    * 粗体
+
+                - android:textColor="#333333"
+                    * 文字颜色深灰色
+            -->
+            <TextView
+                android:id="@+id/tvName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="姓名"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="#333333" />
+
+            <!--
+                TextView - 文本视图（详细信息）
+                - 显示年龄和成绩
+
+                属性说明：
+                - android:id="@+id/tvDetails"
+                    * ID
+
+                - android:text="年龄: 0 | 成绩: 0"
+                    * 默认文字
+
+                - android:textSize="14sp"
+                    * 字体大小14sp，稍微小一点
+
+                - android:textColor="#666666"
+                    * 文字颜色灰色
+            -->
+            <TextView
+                android:id="@+id/tvDetails"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:text="年龄: 0 | 成绩: 0"
+                android:textSize="14sp"
+                android:textColor="#666666" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- strings.xml - 字符串资源文件 -->
+
+<!--
+    字符串文件的作用：
+    - 定义应用中用到的所有文字
+    - 方便国际化（可以创建不同语言的版本）
+    - 把文字和代码分离，修改方便
+-->
+
+<resources>
+    <!-- 应用名称 -->
+    <string name="app_name">学生管理系统</string>
+
+    <!-- 按钮文字 -->
+    <string name="add_student">添加学生</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="delete">删除</string>
+
+    <!-- 提示信息 -->
+    <string name="empty_list_hint">点击右下角按钮添加学生</string>
+    <string name="add_success">添加成功！</string>
+    <string name="add_failed">添加失败</string>
+    <string name="delete_success">删除成功！</string>
+
+    <!-- 输入提示 -->
+    <string name="hint_name">请输入姓名</string>
+    <string name="hint_age">请输入年龄</string>
+    <string name="hint_score">请输入成绩</string>
+
+    <!-- 内容描述（无障碍） -->
+    <string name="student_photo">学生照片</string>
+    <string name="add_button">添加按钮</string>
+</resources>
